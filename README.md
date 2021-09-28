@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis Drinkwater</h1>
 <h3 align="center">A passionate full stack developer from London, UK</h3>
 
-🔭 I’m currently working on [Buddie Up](https://www.buddie-up.com/welcome), a prototype application to help gamers find other players to play with online, using Ruby on Rails, HTML 5, SCSS, and Javascript. 
-
 🌱 I’m currently learning **React** and trying to improve my frontend/javascript skills!
 
 💬 Ask me about **Ruby on Rails**
