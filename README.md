@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Louis Drinkwater</h1>
+<h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate full stack developer from London, UK</h3>
 
 🌱 I’m currently learning **React** and trying to improve my frontend/javascript skills!
