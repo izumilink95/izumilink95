@@ -13,7 +13,7 @@ As a recent graduate from Le Wagon, London, a 9-week intensive web development b
 
 ### Javascript & React
 * 200+ hours experience
-* Created 3 SPAs as part of a React course: [React Giphy](http://louisizumi.me/react-gifs/), an AJAX search engine for finding GIFs; [React Flats](http://louisizumi.me/react-flats/), an app using Google React Map API to show the location of a list of flats; and [Wagon Cities](http://louisizumi.me/wagon-cities/), my first Redux app which displays pictures of various Le Wagon offices.
+* Created 3 SPAs as part of a React course: [React Giphy](http://louisizumi.me/react-gifs/), an AJAX search engine for finding GIFs; [React Flats](http://louisizumi.me/react-flats/), an app using Google React Map API to show the location of a list of flats; and [Wagon Cities](http://louisizumi.me/wagon-cities/), my first React-Redux app which displays pictures of various Le Wagon offices.
 
 ### Python
 * 100+ hours experience
