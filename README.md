@@ -8,6 +8,7 @@ As a recent graduate from Le Wagon, London, a 9-week intensive web development b
 * 300+ hours experience.
 * Created [Buddie Up](https://www.buddie-up.com/) with a team of 3 developers, an application to help gamers find other players to play with online.
 * Created [16-bit Rentals](https://sixteen-bit-rentals.herokuapp.com/) with a team of 3 developers, an AirBnB clone for renting games consoles rather than homes.
+* Contributed to the frontend of [Gambly](https://github.com/Mashiepotatoes/Gambly).
 * Created 2 independent Ruby on Rails Applications: 
   * [Watch List](https://github.com/louisizumi/rails-watch-list), a way to keep tabs on films you like.
   * [Simple Airbnb](https://github.com/louisizumi/rails-simple-airbnb), an AirBnB clone.
