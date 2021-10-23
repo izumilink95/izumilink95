@@ -19,9 +19,9 @@ As a recent graduate from Le Wagon, London, a 9-week intensive web development b
 * Created 5 SPAs as part of a React course: 
   * [React Giphy](http://louisizumi.me/react-gifs/), an AJAX search engine for finding GIFs.
   * [React Flats](http://louisizumi.me/react-flats/), an app using Google React Map API to show the location of a list of flats.
-  * [Wagon Cities](http://louisizumi.me/wagon-cities/), my first React-Redux app which displays pictures of various Le Wagon offices.
-  * [Chat Redux](http://louisizumi.me/chat-redux/), an advanced React-Redux clone of the Slack messaging app, using react-router.
-  * [Garage Redux](http://louisizumi.me/garage-redux/), an advanced React-Redux app for keeping track of cars in a garage, using react-router.
+  * [React Cities](http://louisizumi.me/react-cities/), my first React-Redux app which displays pictures of various Le Wagon offices.
+  * [Redux Chat](http://louisizumi.me/redux-chat/), an advanced React-Redux clone of the Slack messaging app, using react-router.
+  * [Redux Garage](http://louisizumi.me/redux-garage/), an advanced React-Redux app for keeping track of cars in a garage, using react-router.
 
 ### Python
 * 100+ hours experience.
