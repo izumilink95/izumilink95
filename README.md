@@ -1,11 +1,15 @@
 # Hi 👋 I'm Louis
 
-As a recent graduate from Le Wagon, London, a 9-week intensive web development bootcamp, I have gained the technical skills necessary to hit the ground running as a full-stack developer. During the course I learnt the fundamentals of HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails. I am excited to continue my learning by improving my frontend skills with React, Redux, and JEST,
+I enjoy building websites that are fun to look at and a pleasure to use.
+
+As a graduate from Le Wagon, London, a 9-week intensive web development bootcamp, I have learned the tools and technologies to take a website from initial design concept to production, having built a number of Ruby on Rails web applications and Javascript projects. 
+
+I continue my build my frontend skills by learning React and have since created 5 single-page applications using React, Redux, and React Router. I intend to further improve my frontend skills by learning Typescript, JEST, and learning the fundamentals of accessible and responsive design.
 
 ## Experience
 
 ### Ruby & Ruby on Rails
-* 300+ hours experience.
+* 400+ hours experience.
 * Created [Buddie Up](https://www.buddie-up.com/) with a team of 3 developers, an application to help gamers find other players to play with online.
 * Created [16-bit Rentals](https://sixteen-bit-rentals.herokuapp.com/) with a team of 3 developers, an AirBnB clone for renting games consoles rather than homes.
 * Contributed to the frontend of [Gambly](https://github.com/Mashiepotatoes/Gambly), a marketplace app for finding unique experiences.
@@ -15,7 +19,7 @@ As a recent graduate from Le Wagon, London, a 9-week intensive web development b
 * Completed 10s of challenges as part of the Le Wagon 9-week intensive web development bootcamp.
 
 ### Javascript & React
-* 200+ hours experience.
+* 400+ hours experience.
 * Created 5 SPAs as part of a React course: 
   * [React Giphy](http://louisizumi.me/react-gifs/), an AJAX search engine for finding GIFs.
   * [React Flats](http://louisizumi.me/react-flats/), an app using Google React Map API to show the location of a list of flats.
