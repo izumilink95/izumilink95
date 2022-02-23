@@ -5,7 +5,9 @@ I enjoy building websites that are fun to look at and a pleasure to use.
 ##### NOW
 
 Working as a web developer at Workforce, a workforce management SaaS company. 
+
 I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
+
 I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow Typing, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
 
 I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
