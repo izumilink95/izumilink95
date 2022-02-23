@@ -2,14 +2,27 @@
 
 I enjoy building websites that are fun to look at and a pleasure to use.
 
-As a graduate from Le Wagon, London, a 9-week intensive web development bootcamp, I have learned the tools and technologies to take a website from initial design concept to production, having built a number of Ruby on Rails web applications and Javascript projects. 
+## NOW
 
-I continue my build my frontend skills by learning React and have since created 5 single-page applications using React, Redux, and React Router. I intend to further improve my frontend skills by learning Typescript, JEST, and learning the fundamentals of accessible and responsive design.
+Working as a web developer at Workforce, a workforce management SaaS company. 
+I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
+I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow Typing, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
+
+I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
+
+## THEN
+
+In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
+
+In September 2021, I graduated from from Le Wagon London, a 9-week intensive web development bootcamp. There I learned the tools and technologies to take a website from initial design concept to production, building a number of Ruby on Rails web applications and Javascript projects. 
+
+Since the bootcamp I have continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
 
 ## Experience
 
 ### Ruby & Ruby on Rails
-* 400+ hours experience.
+* 600+ hours experience.
+* Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created [Buddie Up](https://www.buddie-up.com/) with a team of 3 developers, an application to help gamers find other players to play with online.
 * Created [16-bit Rentals](https://sixteen-bit-rentals.herokuapp.com/) with a team of 3 developers, an AirBnB clone for renting games consoles rather than homes.
 * Contributed to the frontend of [Gambly](https://github.com/Mashiepotatoes/Gambly), a marketplace app for finding unique experiences.
@@ -19,7 +32,8 @@ I continue my build my frontend skills by learning React and have since created 
 * Completed 10s of challenges as part of the Le Wagon 9-week intensive web development bootcamp.
 
 ### Javascript & React
-* 400+ hours experience.
+* 800+ hours experience.
+* Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created 5 SPAs as part of a React course: 
   * [React Giphy](https://louisizumi.github.io/react-gifs/), an AJAX search engine for finding GIFs.
   * [React Flats](https://louisizumi.github.io/react-flats/), an app using Google React Map API to show the location of a list of flats.
@@ -34,20 +48,23 @@ I continue my build my frontend skills by learning React and have since created 
 
 ## Stack
 <p align="center">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
- <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
