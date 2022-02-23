@@ -2,7 +2,7 @@
 
 I enjoy building websites that are fun to look at and a pleasure to use.
 
-## NOW
+### NOW
 
 Working as a web developer at Workforce, a workforce management SaaS company. 
 I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
@@ -18,9 +18,9 @@ In September 2021, I graduated from from Le Wagon London, a 9-week intensive web
 
 Since the bootcamp I have continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
 
-## Experience
+### Experience
 
-### Ruby & Ruby on Rails
+#### Ruby & Ruby on Rails
 * 600+ hours experience.
 * Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created [Buddie Up](https://www.buddie-up.com/) with a team of 3 developers, an application to help gamers find other players to play with online.
@@ -31,7 +31,7 @@ Since the bootcamp I have continued to build my frontend skills by learning Reac
   * [Simple Airbnb](https://github.com/louisizumi/rails-simple-airbnb), an AirBnB clone.
 * Completed 10s of challenges as part of the Le Wagon 9-week intensive web development bootcamp.
 
-### Javascript & React
+#### Javascript & React
 * 800+ hours experience.
 * Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created 5 SPAs as part of a React course: 
@@ -41,12 +41,12 @@ Since the bootcamp I have continued to build my frontend skills by learning Reac
   * [Redux Chat](https://louisizumi.github.io/redux-chat/), an advanced React-Redux clone of the Slack messaging app, using react-router.
   * [Redux Garage](https://louisizumi.github.io/redux-garage/), an advanced React-Redux app for keeping track of cars in a garage, using react-router.
 
-### Python
+#### Python
 * 100+ hours experience.
 * Created a Flask web application called [Kando](https://github.com/louisizumi/Kando) independently as part of Harvard's CS50x: Introduction to Computer Science course.
 * Created a command-line Youtube-like [application](https://github.com/louisizumi/Google-Coding-Challenge) as part of the Bright Internship UK: 2020 Google Coding Challenge.
 
-## Stack
+### Stack
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
