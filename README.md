@@ -4,21 +4,21 @@ I enjoy building websites that are fun to look at and a pleasure to use.
 
 ##### NOW
 
-Working as a web developer at Workforce, a workforce management SaaS company. 
+* Working as a web developer at Workforce, a workforce management SaaS company. 
 
-I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
+* I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
 
-I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow Typing, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
+* I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow Typing, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
 
-I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
+* I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
 
 ##### THEN
 
-In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
+* In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
 
-In September 2021, I graduated from from Le Wagon London, a 9-week intensive web development bootcamp. There I learned the tools and technologies to take a website from initial design concept to production, building a number of Ruby on Rails web applications and Javascript projects. 
+* In September 2021, I graduated from from Le Wagon London, a 9-week intensive web development bootcamp. There I learned the tools and technologies to take a website from initial design concept to production, building a number of Ruby on Rails web applications and Javascript projects. 
 
-Since the bootcamp I have continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
+* After the bootcamp I continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
 
 ### Experience
 
