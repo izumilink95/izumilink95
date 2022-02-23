@@ -2,7 +2,7 @@
 
 I enjoy building websites that are fun to look at and a pleasure to use.
 
-### NOW
+##### NOW
 
 Working as a web developer at Workforce, a workforce management SaaS company. 
 I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
@@ -10,7 +10,7 @@ I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind
 
 I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
 
-### THEN
+##### THEN
 
 In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
 
@@ -18,7 +18,7 @@ In September 2021, I graduated from from Le Wagon London, a 9-week intensive web
 
 Since the bootcamp I have continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
 
-#### Experience
+### Experience
 
 ##### Ruby & Ruby on Rails
 * 600+ hours experience.
@@ -46,10 +46,10 @@ Since the bootcamp I have continued to build my frontend skills by learning Reac
 * Created a Flask web application called [Kando](https://github.com/louisizumi/Kando) independently as part of Harvard's CS50x: Introduction to Computer Science course.
 * Created a command-line Youtube-like [application](https://github.com/louisizumi/Google-Coding-Challenge) as part of the Bright Internship UK: 2020 Google Coding Challenge.
 
-#### Stack
+### Stack
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
@@ -58,7 +58,7 @@ Since the bootcamp I have continued to build my frontend skills by learning Reac
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="css3" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
