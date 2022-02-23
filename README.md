@@ -10,7 +10,7 @@ I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind
 
 I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
 
-## THEN
+### THEN
 
 In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
 
