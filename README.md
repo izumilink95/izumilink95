@@ -4,26 +4,18 @@ I enjoy building websites that are fun to look at and a pleasure to use.
 
 ##### NOW
 
-* Working as a web developer at Workforce, a workforce management SaaS company. 
+* Working as a web developer at Workforce.com, a workforce management SaaS company. 
 
 * I help add features and fix bugs in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" alt="rails" width="12" height="12"/> Rails and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="12" height="12"/> React.
 
-* I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
+* I also use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="12" height="12"/> Tailwind CSS, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="tailwind" width="12" height="12"/> GraphQL, Flow, Sorbet, Rspec, and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="tailwind" width="12" height="12"/> Jest.
 
-* I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive design.
-
-##### THEN
-
-* In June 2018, I started my tech journey as a Games QA Tester at Feral Interactive. There I learned to appreciate the importance of well-written code and a refined user experience.
-
-* In September 2021, I graduated from from Le Wagon London, a 9-week intensive web development bootcamp. There I learned the tools and technologies to take a website from initial design concept to production, building a number of Ruby on Rails web applications and Javascript projects. 
-
-* After the bootcamp I continued to build my frontend skills by learning React and Redux and have since created a number of single-page applications. 
+* I intend to further improve my frontend skills by learning the fundamentals of accessible and responsive web design.
 
 ### Experience
 
 ##### Ruby & Ruby on Rails
-* 600+ hours experience.
+* 1 year's professional experience.
 * Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created [Buddie Up](https://www.buddie-up.com/) with a team of 3 developers, an application to help gamers find other players to play with online.
 * Created [16-bit Rentals](https://sixteen-bit-rentals.herokuapp.com/) with a team of 3 developers, an AirBnB clone for renting games consoles rather than homes.
@@ -34,7 +26,7 @@ I enjoy building websites that are fun to look at and a pleasure to use.
 * Completed 10s of challenges as part of the Le Wagon 9-week intensive web development bootcamp.
 
 ##### Javascript & React
-* 800+ hours experience.
+* 1 year's professional experience.
 * Contributed to [Workforce.com](https://workforce.com/uk), a workforce management platform.
 * Created 5 SPAs as part of a React course: 
   * [React Giphy](https://louisizumi.github.io/react-gifs/), an AJAX search engine for finding GIFs.
@@ -42,11 +34,6 @@ I enjoy building websites that are fun to look at and a pleasure to use.
   * [React Cities](https://louisizumi.github.io/react-cities/), my first React-Redux app which displays pictures of various Le Wagon offices.
   * [Redux Chat](https://louisizumi.github.io/redux-chat/), an advanced React-Redux clone of the Slack messaging app, using react-router.
   * [Redux Garage](https://louisizumi.github.io/redux-garage/), an advanced React-Redux app for keeping track of cars in a garage, using react-router.
-
-##### Python
-* 100+ hours experience.
-* Created a Flask web application called [Kando](https://github.com/louisizumi/Kando) independently as part of Harvard's CS50x: Introduction to Computer Science course.
-* Created a command-line Youtube-like [application](https://github.com/louisizumi/Google-Coding-Challenge) as part of the Bright Internship UK: 2020 Google Coding Challenge.
 
 ### Stack
 <p align="center">
